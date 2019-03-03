@@ -1,0 +1,18 @@
+[
+    {
+        "id" : 1, "ten" : "Nguyễn Thị Nết", "sdt":"0336166418" , "quyen": 1
+    },
+    {
+        "id" : 2, "ten" : "Phùng Trọng Khánh", "sdt":"035125111" , "quyen": 2
+    },
+    {
+        "id" : 3, "ten" : "Trần Bảo Nam", "sdt":"0985125666" , "quyen": 3
+    },
+    {
+        "id" : 4, "ten" : "Tạ Thanh Hằng", "sdt":"0987129780" , "quyen": 2
+    },
+    {
+        "id" : 5, "ten" : "Bùi Nguyệt Nga", "sdt":"037111222" , "quyen": 3
+    }
+        
+]
